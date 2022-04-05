@@ -7,6 +7,7 @@ Disclaimer: install at your own risk. THERE IS NO WARRANTY WHATSOEVER.
 1. <a href="#requirements">Requirements</a>
 2. <a href="#installation">Installation</a>
 3. <a href="#screenshots">Screenshots</a>
+4. <a href="#thoughts">A Video on the Project</a>
 
 <h2 id="requirements">Requirements</h2>
 
@@ -31,3 +32,7 @@ git clone https://github.com/Tunkert/Bull-Shark-VIM ~/.vim
 ### Bull Shark VIM with Sonokai Theme (default)
 
 ![Bull Shark VIM Sonokai Theme](./images/bull-shark-vim-sonokai.png "Bull Shark VIM with Sonokai Theme")
+
+<h2 id="thoughts">My Thoughts on the Project</h2>
+
+Here is [a video on my thoughts on the project (on YouTube)](https://youtu.be/pHonut0d4hk).
