@@ -24,21 +24,24 @@ set nu rnu
 call plug#begin()
 
 Plug 'dracula/vim'
+Plug 'gruvbox-community/gruvbox'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mhinz/vim-startify'
 Plug 'lifepillar/vim-mucomplete'
 Plug 'mattn/emmet-vim'
-Plug 'https://github.com/pangloss/vim-javascript.git'
+Plug 'pangloss/vim-javascript.git'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'https://github.com/preservim/nerdtree'
+Plug 'preservim/nerdtree'
 Plug 'bbrtj/vim-vorg-md'
+Plug 'ryanoasis/vim-devicons'
+Plug 'alvan/vim-closetag'
 
 call plug#end()
 
 set termguicolors
 set bg=dark
-colo dracula
+colo dracula 
 
 set completeopt+=menuone
 
@@ -57,3 +60,6 @@ let g:user_emmet_leader_key=','
 
 inoremap <c-b> <Esc>:NERDTreeToggle<cr>
 nnoremap <c-b> <Esc>:NERDTreeToggle<cr>
+
+set guifont=DejaVuSansMono\ Nerd\ Font\ 10
+let g:airline_powerline_fonts = 1
