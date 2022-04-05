@@ -12,7 +12,7 @@ Disclaimer: install at your own risk. THERE IS NO WARRANTY WHATSOEVER.
 
 You'll need to install a Nerd Font from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) and set your terminal to view the Nerd Font. Here is a video on how to do that with the Kitty terminal:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KdAqsU7E-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/embed/4KdAqsU7E-M](https://www.youtube.com/embed/4KdAqsU7E-M "YouTube video on setting up Devicons in VIM")
 
 <h2 id="installation">Installation</h2>
 
