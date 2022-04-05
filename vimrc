@@ -29,7 +29,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'mhinz/vim-startify'
 Plug 'lifepillar/vim-mucomplete'
 Plug 'mattn/emmet-vim'
-Plug 'pangloss/vim-javascript.git'
+Plug 'pangloss/vim-javascript'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdtree'
@@ -61,5 +61,4 @@ let g:user_emmet_leader_key=','
 inoremap <c-b> <Esc>:NERDTreeToggle<cr>
 nnoremap <c-b> <Esc>:NERDTreeToggle<cr>
 
-set guifont=DejaVuSansMono\ Nerd\ Font\ 10
 let g:airline_powerline_fonts = 1
