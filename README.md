@@ -24,13 +24,10 @@ git clone https://github.com/Tunkert/Bull-Shark-VIM ~/.vim
 
 <h2 id="screenshots">Screenshots</h2>
 
-<figure>
-![Bull Shark VIM Screenshot](./images/bull-shark-vim-screenshot.png)
+### Bull Shark VIM with Dracula Theme
 
-<figcaption align="center">Bull Shark VIM with Dracula Theme</figcaption>
-</figure>
+![Bull Shark VIM Screenshot](./images/bull-shark-vim-screenshot.png "Bull Shark VIM with Dracula Theme")
 
-<figure>
-![Bull Shark VIM Sonokai Theme](./images/bull-shark-vim-sonokai.png)
-<figcaption align="center">Bull Shark VIM with Sonokai Theme</figcaption>
-</figure>
+### Bull Shark VIM with Sonokai Theme (default)
+
+![Bull Shark VIM Sonokai Theme](./images/bull-shark-vim-sonokai.png "Bull Shark VIM with Sonokai Theme")
