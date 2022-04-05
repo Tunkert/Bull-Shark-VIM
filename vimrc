@@ -25,6 +25,7 @@ call plug#begin()
 
 Plug 'dracula/vim'
 Plug 'gruvbox-community/gruvbox'
+Plug 'sainnhe/sonokai'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mhinz/vim-startify'
 Plug 'lifepillar/vim-mucomplete'
@@ -41,7 +42,7 @@ call plug#end()
 
 set termguicolors
 set bg=dark
-colo dracula 
+colo sonokai 
 
 set completeopt+=menuone
 
