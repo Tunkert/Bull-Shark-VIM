@@ -26,6 +26,7 @@ call plug#begin()
 Plug 'dracula/vim'
 Plug 'gruvbox-community/gruvbox'
 Plug 'sainnhe/sonokai'
+Plug 'sainnhe/everforest'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mhinz/vim-startify'
 Plug 'lifepillar/vim-mucomplete'
